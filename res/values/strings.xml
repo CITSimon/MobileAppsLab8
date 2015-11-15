@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SongPlayer</string>
+    <string name="video_question">Play video ?</string>
+</resources>
